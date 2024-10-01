@@ -1,9 +1,3 @@
-Here’s a brief report covering the requested aspects of your brain metastasis segmentation project. You can expand or modify it as needed to fit your specific findings and experiences.
-
----
-
-## Brief Report on Brain Metastasis Segmentation
-
 ### 1. **Approach to the Brain Metastasis Segmentation Problem**
 
 The primary objective of this project was to accurately segment brain metastases from MRI images using two deep learning architectures: Nested U-Net (U-Net++) and Attention U-Net. The approach involved the following steps:
