@@ -47,7 +47,3 @@ There are several areas for potential improvement and further research in automa
 - **Robust Evaluation Metrics**: Beyond DICE scores, incorporating additional evaluation metrics (such as Jaccard index, sensitivity, and specificity) would provide a more comprehensive assessment of model performance.
 
 - **Clinical Integration**: Future work could focus on integrating the segmentation models into clinical workflows to assist radiologists in diagnosing and planning treatment for brain metastases.
-
----
-
-Feel free to adjust any parts of this report to reflect your specific findings, methods, or experiences during your project! If you have additional results or details you’d like to include, let me know!
